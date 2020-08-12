@@ -1,12 +1,9 @@
 # Learning-How-To-Act
 
-<b> Observational Causal Inference </b>
+#### Observational Causal Inferen
 
 
-<b> Reinforcement Learning - Multi Arm Bandit</b>
-
-
-# Bandit Algorithms 
+#### Reinforcement Learning - Multi Arm Bandit Algorithms
 * epsilon-Greedy
 * Softmax (Boltzmann)
 * UCB1
