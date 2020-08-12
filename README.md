@@ -1,6 +1,6 @@
 # Learning-How-To-Act
 
-#### Observational Causal Inferen
+#### Observational Causal Inference
 
 
 #### Reinforcement Learning - Multi Arm Bandit Algorithms
