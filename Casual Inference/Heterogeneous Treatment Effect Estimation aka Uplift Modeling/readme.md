@@ -1,8 +1,9 @@
 
+Uplift Modeling for Multiple Treatments with Cost Optimization
 
 Free Lunch! Retrospective Uplift Modeling for Dynamic Promotions Recommendation within ROI Constraints </br>
 
-Uplift Modeling for Multiple Treatments with Cost Optimization
+
 
 AFFORDABLE UPLIFT: SUPERVISED RANDOMIZATION IN CONTROLLED EXPERIMENTS
 
