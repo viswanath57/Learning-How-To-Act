@@ -29,3 +29,9 @@ I can see that more or less I got exposed to around 20-25 Uplift Modeling Papers
 I should summarize everg papers in a page or so by end of November;
 
 
+
+Introduction to Uplift Modeling
+
+<ul>
+<li>Differential Response Analysis: Modeling True Responses by Isolating the Effect of a Single Action</li>
+</ul>
